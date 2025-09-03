@@ -45,18 +45,6 @@ plt.legend()
 plt.show()
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
 **NATURAL SAMPLING**
 ```
 import numpy as np
@@ -118,17 +106,6 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
-
-
-
-
-
-
-
-
-
-
-
 
 **FLAT-TOP SAMPLING**
 ```
@@ -233,9 +210,11 @@ plt.show()
 
 
 
+
 **NATURAL SAMPLING**
 
 <img width="1390" height="989" alt="Untitled" src="https://github.com/user-attachments/assets/8ab9ef88-3b3c-4c0b-8439-f89aaed1d7d3" />
+
 
 
 
