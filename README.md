@@ -4,7 +4,6 @@ Write a simple Python program for the construction and reconstruction of ideal, 
 # Tools required
 Python IDE
 # Program
-
 **IDEAL SAMPLING**
 ```
 import numpy as np
@@ -44,6 +43,8 @@ plt.grid(True)
 plt.legend()
 plt.show()
 ```
+
+
 **NATURAL SAMPLING**
 ```
 import numpy as np
@@ -105,6 +106,8 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
+
+
 
 **FLAT-TOP SAMPLING**
 
@@ -179,7 +182,9 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
+
 # Output Waveform
+
 
 **IDEAL SAMPLING**
 
