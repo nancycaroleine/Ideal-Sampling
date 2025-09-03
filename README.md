@@ -183,18 +183,37 @@ plt.show()
 
 **IDEAL SAMPLING**
 
-<img width="866" height="393" alt="Untitled" src="https://github.com/user-attachments/assets/820165ae-b20b-43db-b7f5-fb621721008e" />
+
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/87e8132e-9327-45ee-96c7-5c928d5c9ace" /> 
+  
+<img width="866" height="393" alt="Untitled-1" src="https://github.com/user-attachments/assets/638d750b-cf4e-46c7-bfd4-37f0dd8774b6" />
+
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/10a14d1a-dec3-4eb8-9c8a-5271d3325e6e" />
+
+
+
+
 
 **NATURAL SAMPLING**
 
 <img width="1390" height="989" alt="Untitled" src="https://github.com/user-attachments/assets/8ab9ef88-3b3c-4c0b-8439-f89aaed1d7d3" />
 
+
+
+
+
+
 **FLAT-TOP SAMPLING**
 
 <img width="1398" height="990" alt="Untitled" src="https://github.com/user-attachments/assets/2ec8b669-1460-4e81-848d-d3258191e184" />
 
+
+
+
+
+
 # Results
-```
+
 Thus the construction and reconstruction of Ideal, Natural and Flat-top sampling were successfully implemented using Python and the corresponding waveforms were obtained.
-```
+
 
